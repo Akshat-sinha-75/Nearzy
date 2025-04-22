@@ -282,7 +282,7 @@ p {
    height: 70px;
    border-radius: 50%;
    border: 3px dashed #FF4500;
-   top: 10%;
+   top: 5%;
    left: 30%;
    opacity: 0.6;
    animation: spin 30s linear infinite reverse;
