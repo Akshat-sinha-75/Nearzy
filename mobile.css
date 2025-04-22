@@ -71,7 +71,10 @@ p {
 }
 
 /* Original decorations */
-
+.dot-purple {
+    display: none;
+    
+}
 
 .dot-black {
    width: 20px;
