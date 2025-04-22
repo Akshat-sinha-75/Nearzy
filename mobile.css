@@ -220,7 +220,7 @@ p {
    height: 90px;
    width: 90px;
    top: 60%;
-   right: 40%;
+   right: 70%;
 }
 
 .zigzag:before {
@@ -282,7 +282,7 @@ p {
    height: 70px;
    border-radius: 50%;
    border: 3px dashed #FF4500;
-   top: 20%;
+   top: 10%;
    left: 30%;
    opacity: 0.6;
    animation: spin 30s linear infinite reverse;
